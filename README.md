@@ -1,2 +1,2 @@
-# Project1
-Repository for my first git assignment
+# GiannasRepository
+My first repository
